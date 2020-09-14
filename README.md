@@ -1,2 +1,2 @@
 # Adaptive-blog
-only HTML + CSS
+only HTML + CSS layout
